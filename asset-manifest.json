@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/malgorzata_moskal/static/css/main.f855e6bc.css",
-    "main.js": "/malgorzata_moskal/static/js/main.5efc026d.js",
-    "static/js/592.ba2857b4.chunk.js": "/malgorzata_moskal/static/js/592.ba2857b4.chunk.js",
+    "main.js": "/malgorzata_moskal/static/js/main.3bdf92ef.js",
+    "static/js/592.7a089ddd.chunk.js": "/malgorzata_moskal/static/js/592.7a089ddd.chunk.js",
     "static/media/logo.svg": "/malgorzata_moskal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/malgorzata_moskal/index.html",
     "main.f855e6bc.css.map": "/malgorzata_moskal/static/css/main.f855e6bc.css.map",
-    "main.5efc026d.js.map": "/malgorzata_moskal/static/js/main.5efc026d.js.map",
-    "592.ba2857b4.chunk.js.map": "/malgorzata_moskal/static/js/592.ba2857b4.chunk.js.map"
+    "main.3bdf92ef.js.map": "/malgorzata_moskal/static/js/main.3bdf92ef.js.map",
+    "592.7a089ddd.chunk.js.map": "/malgorzata_moskal/static/js/592.7a089ddd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.5efc026d.js"
+    "static/js/main.3bdf92ef.js"
   ]
 }
